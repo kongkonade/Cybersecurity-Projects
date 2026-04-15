@@ -3,7 +3,7 @@
 ## 1. Network Traffic Analysis
 - Tool: Wireshark
 - Captured live network traffic
-- Analyzed DNS, TCP, HTTP packets
+- Analyzed DNS, TCP packets
 - Identified external communication patterns
 
 ## 2. Password Cracking and Hashing
